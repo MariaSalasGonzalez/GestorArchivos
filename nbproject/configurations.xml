@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>empleado.h</itemPath>
+      <itemPath>empleadoDestajo.h</itemPath>
+      <itemPath>empleadoFijo.h</itemPath>
+      <itemPath>empresa.h</itemPath>
+      <itemPath>gestorArchivos.h</itemPath>
+      <itemPath>listaEmpleado.h</itemPath>
+      <itemPath>nodoEmpleado.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>empleado.cpp</itemPath>
+      <itemPath>empleadoDestajo.cpp</itemPath>
+      <itemPath>empleadoFijo.cpp</itemPath>
+      <itemPath>empresa.cpp</itemPath>
+      <itemPath>gestorArchivos.cpp</itemPath>
+      <itemPath>listaEmpleado.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+      <itemPath>nodoEmpleado.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="empleado.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="empleado.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="empleadoDestajo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="empleadoDestajo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="empleadoFijo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="empleadoFijo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="empresa.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="empresa.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="gestorArchivos.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="gestorArchivos.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="listaEmpleado.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="listaEmpleado.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="nodoEmpleado.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="nodoEmpleado.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="empleado.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="empleado.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="empleadoDestajo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="empleadoDestajo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="empleadoFijo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="empleadoFijo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="empresa.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="empresa.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="gestorArchivos.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="gestorArchivos.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="listaEmpleado.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="listaEmpleado.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="nodoEmpleado.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="nodoEmpleado.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

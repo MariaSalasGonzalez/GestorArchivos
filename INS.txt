@@ -1,0 +1,20 @@
+59777295	Alfaro	Santiago	1	348000	
+29664983	Vílchez	Mateo	2	3300	179
+46812859	Hernández	Natalia	2	3400	164
+14580689	Rodríguez	Carlos	2	3000	71
+64507039	Morales	José	2	2700	120
+63394052	Fernández	Raquel	1	270000	
+40811256	Conejo	Irene	2	2900	95
+20512619	Salas	Ana	2	3200	66
+45255833	Ramírez	Carmen	2	3100	63
+5161149	Vargas	Lucas	2	2500	172
+99430955	Solano	Sonia	1	261000	
+36562023	Villalobos	Isabel	2	2900	107
+66227006	Alvarez	Jorge	2	2700	106
+13039864	Morales	Allan	1	254000	
+25701881	Peña	Mayela	1	241000	
+2550871	Murillo	Juan	1	253000	
+92127592	Ruiz	Sandra	1	271000	
+85267291	Leitón	Pedro	1	283000	
+93931766	Murillo	Josué	2	2400	78
+23418054	Pérez	Marta	2	2700	175
